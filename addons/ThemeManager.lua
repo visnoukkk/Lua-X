@@ -42,7 +42,7 @@ local ThemeManager = {
     BuiltInThemes = {
         ["Default"] = {
             1,
-            { FontColor = "ffffff", MainColor = "ffffff", AccentColor = "7d55ff", BackgroundColor = "000000", OutlineColor = "000000", BackgroundImage = "" },
+            { FontColor = "ffffff", MainColor = "000000", AccentColor = "ffffff", BackgroundColor = "000000", OutlineColor = "000000", BackgroundImage = "" },
         },
         ["Unnamed Enhancements"] = {
             2,
